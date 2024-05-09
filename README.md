@@ -1,6 +1,6 @@
 # Kali (Rolling) Ansible Docker Image #
 
-[![CI](https://github.com/threatcode/kali-ansible-docker/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/threatcode/kali-ansible-docker/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/threatcode/kali-ansible-docker)](https://ghcr.io/threatcode/kali-ansible-docker/)
+[![CI](https://github.com/threatcode/kali-ansible-docker/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/threatcode/kali-ansible-docker/actions?query=workflow%3ABuild) [![GitHub Container Registry](https://img.shields.io/badge/GHCR-Your_Pulls-blue)](https://ghcr.io/threatcode/kali-ansible-docker/)
 
 Kali Linux (Rolling) Docker container for Ansible playbook and role testing.
 
