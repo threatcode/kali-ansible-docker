@@ -8,12 +8,10 @@ on:
       - master
   schedule:
     - cron: "10 1 * * 0"
-    
+
 env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: ghcr.io
-  # github.repository as <account>/<repo>
-  IMAGE_NAME: ${{ github.repository }
   
 jobs:
   # Test the image builds and works correctly.
